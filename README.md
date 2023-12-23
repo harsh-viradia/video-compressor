@@ -1,5 +1,3 @@
-#Video Compressor with ECS Fargate
-
 ## Architecture Diagram
 
 ![ECS](https://github.com/harsh-viradia/video-compressor/assets/140060556/a1c6048d-e438-4c47-b9ec-6a6e89f1f214)
